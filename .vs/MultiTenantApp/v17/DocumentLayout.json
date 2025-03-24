@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\john.mccourt\\Downloads\\MultiTenantApp (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\john.mccourt\\Downloads\\MultiTenantApp (1)\\MultiTenantApp\\Migrations\\20250319114107_jm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiTenantApp\\Migrations\\20250319114107_jm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53451C6-4B42-49F5-9BAD-BD8C2904EAAF}|MultiTenantApp\\MultiTenantApp.csproj|c:\\users\\john.mccourt\\downloads\\multitenantapp (1)\\multitenantapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53451C6-4B42-49F5-9BAD-BD8C2904EAAF}|MultiTenantApp\\MultiTenantApp.csproj|solutionrelative:multitenantapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53451C6-4B42-49F5-9BAD-BD8C2904EAAF}|MultiTenantApp\\MultiTenantApp.csproj|c:\\users\\john.mccourt\\downloads\\multitenantapp (1)\\multitenantapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53451C6-4B42-49F5-9BAD-BD8C2904EAAF}|MultiTenantApp\\MultiTenantApp.csproj|solutionrelative:multitenantapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53451C6-4B42-49F5-9BAD-BD8C2904EAAF}|MultiTenantApp\\MultiTenantApp.csproj|c:\\users\\john.mccourt\\downloads\\multitenantapp (1)\\multitenantapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F53451C6-4B42-49F5-9BAD-BD8C2904EAAF}|MultiTenantApp\\MultiTenantApp.csproj|solutionrelative:multitenantapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53451C6-4B42-49F5-9BAD-BD8C2904EAAF}|MultiTenantApp\\MultiTenantApp.csproj|c:\\users\\john.mccourt\\downloads\\multitenantapp (1)\\multitenantapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53451C6-4B42-49F5-9BAD-BD8C2904EAAF}|MultiTenantApp\\MultiTenantApp.csproj|solutionrelative:multitenantapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53451C6-4B42-49F5-9BAD-BD8C2904EAAF}|MultiTenantApp\\MultiTenantApp.csproj|c:\\users\\john.mccourt\\downloads\\multitenantapp (1)\\multitenantapp\\multitenantapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F53451C6-4B42-49F5-9BAD-BD8C2904EAAF}|MultiTenantApp\\MultiTenantApp.csproj|solutionrelative:multitenantapp\\multitenantapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250319114107_jm1.cs",
+              "DocumentMoniker": "C:\\Users\\john.mccourt\\Downloads\\MultiTenantApp (1)\\MultiTenantApp\\Migrations\\20250319114107_jm1.cs",
+              "RelativeDocumentMoniker": "MultiTenantApp\\Migrations\\20250319114107_jm1.cs",
+              "ToolTip": "C:\\Users\\john.mccourt\\Downloads\\MultiTenantApp (1)\\MultiTenantApp\\Migrations\\20250319114107_jm1.cs",
+              "RelativeToolTip": "MultiTenantApp\\Migrations\\20250319114107_jm1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:41:08.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\john.mccourt\\Downloads\\MultiTenantApp (1)\\MultiTenantApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MultiTenantApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\john.mccourt\\Downloads\\MultiTenantApp (1)\\MultiTenantApp\\Models\\User.cs",
+              "RelativeToolTip": "MultiTenantApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:40:28.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\john.mccourt\\Downloads\\MultiTenantApp (1)\\MultiTenantApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiTenantApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\john.mccourt\\Downloads\\MultiTenantApp (1)\\MultiTenantApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MultiTenantApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T11:37:46.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\john.mccourt\\Downloads\\MultiTenantApp (1)\\MultiTenantApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MultiTenantApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\john.mccourt\\Downloads\\MultiTenantApp (1)\\MultiTenantApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MultiTenantApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:37:41.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\john.mccourt\\Downloads\\MultiTenantApp (1)\\MultiTenantApp\\Program.cs",
+              "RelativeDocumentMoniker": "MultiTenantApp\\Program.cs",
+              "ToolTip": "C:\\Users\\john.mccourt\\Downloads\\MultiTenantApp (1)\\MultiTenantApp\\Program.cs",
+              "RelativeToolTip": "MultiTenantApp\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:25:09.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MultiTenantApp",
+              "DocumentMoniker": "C:\\Users\\john.mccourt\\Downloads\\MultiTenantApp (1)\\MultiTenantApp\\MultiTenantApp.csproj",
+              "RelativeDocumentMoniker": "MultiTenantApp\\MultiTenantApp.csproj",
+              "ToolTip": "C:\\Users\\john.mccourt\\Downloads\\MultiTenantApp (1)\\MultiTenantApp\\MultiTenantApp.csproj",
+              "RelativeToolTip": "MultiTenantApp\\MultiTenantApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T11:24:47.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
